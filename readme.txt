@@ -1,1 +1,2 @@
-Create a new branch is quick AND simple.
+Create a quick AND simple.
+this is test.`
